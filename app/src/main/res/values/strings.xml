@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">eitStudent</string>
+    <string name="sql">SQL</string>
+    <string name="todo">TODO</string>
+    <string name="stcode">Оюутны код</string>
+    <string name="password">Нууц үг</string>
+    <string name="login">Нэвтрэх</string>
+</resources>
